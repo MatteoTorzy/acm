@@ -1,4 +1,4 @@
-# acm
+# advanced computational mechanics
 
 conda create -n acm python=3.12
 
