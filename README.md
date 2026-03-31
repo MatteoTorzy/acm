@@ -14,6 +14,10 @@ pip install matplotlib
 
 pip install pandas
 
+pip install xlrd
+
+pip install scikit-learn
+
 ---
 
 jupyter notebook
