@@ -21,3 +21,11 @@ pip install scikit-learn
 ---
 
 jupyter notebook
+
+---
+
+pip install spyder
+
+spyder
+
+---
