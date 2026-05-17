@@ -18,6 +18,8 @@ pip install xlrd
 
 pip install scikit-learn
 
+pip install torch
+
 ---
 
 jupyter notebook
