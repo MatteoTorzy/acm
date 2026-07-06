@@ -1,4 +1,5 @@
 *.pdf
+!.GetReady_Python.pdf
 *.ppt
 *.pptx
 Onedrive/
