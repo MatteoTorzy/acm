@@ -2,6 +2,8 @@
 !GetReady_Python.pdf
 *.ppt
 *.pptx
+*.doc
+*.docx
 Onedrive/
 .DS_Store
 .ipynb_checkpoints/
