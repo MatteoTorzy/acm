@@ -6,28 +6,30 @@ conda activate acm
 
 ---
 
-pip install notebook
-
-pip install numpy
-
-pip install matplotlib
-
-pip install pandas
-
-pip install xlrd
-
-pip install scikit-learn
-
-pip install torch
-
----
+conda install notebook
 
 jupyter notebook
 
 ---
 
-pip install spyder
+conda install numpy
+
+conda install matplotlib
+
+conda install pandas
+
+conda install xlrd
+
+conda install scikit-learn
+
+---
+
+conda install spyder
 
 spyder
+
+---
+
+pip install torch
 
 ---
