@@ -1,5 +1,9 @@
 *.pdf
 !GetReady_Python.pdf
+!N1 book Deep-Learning-with-PyTorch.pdf
+!N2 Hastie introduction to stat learning.pdf
+!N3 book Machine Learning Civil Engineering_PT1.pdf
+!N3 book Machine Learning Civil Engineering_PT2.pdf
 *.ppt
 *.pptx
 *.doc
