@@ -1,3 +1,0 @@
-Merge "../input/dynamics_tyreincl.msh";
-Merge "out.msh";
-Merge "opti.geo";

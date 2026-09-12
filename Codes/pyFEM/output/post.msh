@@ -1,0 +1,3 @@
+Merge "../input/buckling.msh";
+Merge "out.msh";
+Merge "opti.geo";
