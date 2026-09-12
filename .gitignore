@@ -10,5 +10,10 @@
 *.doc
 *.docx
 Onedrive/
+Codes/Bayesian_inference
+Codes/Classification
+Codes/Linear_regression
+Codes/Neural_networks
+Codes/Unsupervised_learning
 .DS_Store
 .ipynb_checkpoints/
