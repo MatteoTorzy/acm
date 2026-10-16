@@ -10,7 +10,6 @@
 *.doc
 *.docx
 Onedrive/
-Codes/Bayesian_inference
 Codes/Classification
 Codes/Linear_regression
 Codes/Neural_networks
