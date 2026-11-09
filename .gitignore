@@ -11,7 +11,6 @@
 *.docx
 Onedrive/
 Codes/Classification
-Codes/Linear_regression
 Codes/Neural_networks
 Codes/Unsupervised_learning
 .DS_Store
