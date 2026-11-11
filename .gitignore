@@ -10,7 +10,7 @@
 *.doc
 *.docx
 Onedrive/
-Codes/Classification
+SVM.ipynb
 Codes/Neural_networks
 Codes/Unsupervised_learning
 .DS_Store
