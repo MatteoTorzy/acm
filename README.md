@@ -6,7 +6,7 @@ conda activate acm
 
 ---
 
-conda install notebook numpy matplotlib pandas xlrd scikit-learn spyder
+conda install notebook numpy matplotlib pandas xlrd scikit-learn spyder catboost
 
 pip install torch
 
