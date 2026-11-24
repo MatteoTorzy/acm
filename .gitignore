@@ -10,9 +10,7 @@
 *.doc
 *.docx
 Onedrive/
-Codes/SVM.ipynb
 Codes/Neural_networks
-Codes/Unsupervised_learning
 Codes/Classification/catboost_info
 .DS_Store
 .ipynb_checkpoints/
